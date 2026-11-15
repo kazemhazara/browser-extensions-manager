@@ -101,15 +101,23 @@ This project was built as part of a challenge from [Frontend Mentor](https://www
 
 ## 👩‍💻 Author
 
-GitHub: [My GitHub](https://github.com/kazemhazara)
+<a href="https://github.com/kazemhazara">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 📬 Contact
+## 📫 Connect with Me
 
-Feel free to connect with me through the following platforms:
-
-- 📧 **Email:** [Send me an email](mailto:kaz.hazara@gmail.com)
-- 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/kazemhazara)
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kazemhazara)
+<p align="left">
+  <a href="mailto:kaz.hazara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/kazemhazara">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kazemhazara">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 Live Demo
 
