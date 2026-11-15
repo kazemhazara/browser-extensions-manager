@@ -109,8 +109,8 @@ Feel free to connect with me through the following platforms:
 
 - 📧 **Email:** [Send me an email](mailto:kaz.hazara@gmail.com)
 - 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/kazemhazara)
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkdin.com/in/kazemhazara)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kazemhazara)
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_URL)
+[View Live Demo](https://kazemhazara.github.io/browser-extensions-manager/)
