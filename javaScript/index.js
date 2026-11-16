@@ -30,8 +30,10 @@ const changeThemeHandler = () => {
 const setThemeHandler = () => {
   if (theme === "dark") {
     html.classList.add("dark");
+    buttonChangeTheme.innerHTML = '<i class="fas fa-sun"></i>';
   } else {
     html.classList.remove("dark");
+    buttonChangeTheme.innerHTML = '<i class="fas fa-moon"></i>';
   }
 };
 //Local Storage Functions
