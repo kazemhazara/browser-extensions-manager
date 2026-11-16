@@ -53,7 +53,7 @@ browser-extensions-manager/
 ├── images/
 │
 ├── javascript/
-│   └── script.js
+│   └── index.js
 │
 ├── vender/
 │   └── bootstrap/
